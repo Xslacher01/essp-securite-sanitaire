@@ -1,0 +1,677 @@
+        CHAPITRE II
+ Hygiène de l’Environnement
+Interne des Établissements de
+   Soins de Santé Primaires
+La gestion de l’hygiène de l’environnement interne de l’établissement
+de soins de santé primaires (ESSP) est une composante importante
+dans la prévention et le contrôle des IAS ;
+L’environnement interne de l’ESSP comprend :
+      • L’air ambiant ;
+      • Les surfaces :
+          -- Murs, sols et plafonds
+          -- Meubles, dispositif médical et matériel de soins non jetable
+      • Le textile : vêtement, champs, literies…
+      • Les déchets.
+
+1. Environnement interne
+Bien que les IAS soient généralement contractées par contact direct
+avec une personne infectée, dans le cas de certains micro-organismes,
+il a été prouvé que l’environnement de l’ESSP joue un rôle dans la
+chaîne de transmission.
+Pour certains micro-organismes, il existe suffisamment d’études pour
+soutenir la contribution des surfaces contaminées à la chaîne de
+transmission, à savoir : l’équipement, les surfaces, les déchets et les
+vêtements.
+
+2. Eléments de l’environnement interne
+Au niveau des ESSP, les éléments de l’environnement de travail qui sont
+susceptibles d’être ciblés par des mesures d’hygiène, du fait de leur
+faculté de contenir et maintenir vivants des microorganismes, sont :
+• Les fomites (un fomite ou vecteur passif de transmission d’une
+  maladie est, chez les anglophones surtout, un objet «contaminé »
+  par des organismes pathogènes, quand cet objet est susceptible de
+  propager une infection d’un individu à un autre lors du phénomène
+  de contagion) et les instruments: ils doivent être propres et
+  désinfectés ou stérilisés, selon l’usage qui va leur être donné.
+• Les surfaces et les équipements : toutes les surfaces et accessoires
+  de l’environnement de l’équipe de l’ESSP et du patient qui sont
+  utilisés temporairement ou en permanence pendant les soins seront
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      19
+  compris comme tels, Il peut s’agir de structures fixes ou mobiles
+  (meubles, électroménagers et appareils) non jetables.
+• Les déchets : tout matériau ou objet utilisé dans les soins du patient
+  ou qui a été généré dans son environnement et qui sera éliminé de
+  l’ESSP. En général, ils sont classés comme déchets solides et liquides,
+  biologiques ou médicaux.
+• Les vêtements : il s’agit des textiles, tels que la literie, les serviettes,
+  blouses et les vêtements portés par l’équipe et les usagers.
+
+3. Classification des locaux selon le risque
+   infectieux
+L’évaluation des risques permet de hiérarchiser les situations
+dangereuses en fonction de leur probabilité d’apparition et de leur
+gravité potentielle, afin d’adapter au mieux les mesures préventives.
+La classification selon le niveau de risque infectieux permet :
+      • De définir la fréquence d’entretien à effectuer pour chaque
+        type de locaux ;
+      • De construire un calendrier d’entretien ;
+      • D’adapter le choix des méthodes, des matériels et des produits.
+
+On distingue trois zones en fonction du niveau de risque, comme décrit
+dans le tableau ci-dessous:
+
+Tableau1 : classification des zones selon le niveau de risque infectieux
+           Zone 1                              Zone 2                     Zone 3
+       Risque faible                       Risque moyen                Risque sévère
+ • Halls                              • Couloirs                 • Salle de Soins
+ • Bureaux                            • Ascenseurs               • Salle d’accouchement
+ • Buanderie                          • Escaliers                • Local de Stérilisation
+ • Pharmacie                          • Salles d’attente         • Unité dentaire
+ • Salle de réunion                   • Salles de Consultation   • Laboratoire
+ • Salle de repos                     • Salle de rééducation
+                                      • Locaux d’entreposage
+                                      des déchets et du linge
+                                      sale
+                                      • Sanitaires
+
+        Sécurité Sanitaire des ESSP
+        Guide du Professionnel
+                                                                                            20
+Chaque zone requiert des mesures d’hygiène adaptées qu’on peut
+classer comme suit :
+
+                  Tableau2 : Les mesures d’hygiène par zone
+       Zone 1                               Zone 2                    Zone 3
+
+Nettoyage quotidien                  Bio-Nettoyage quotidien   Bionettoyage
+Propreté macroscopique               Propreté macroscopique    biquotidien
+                                     et microscopique          Propreté macroscopique
+                                                               et microscopique
+
+
+4. Classification des équipements selon le risque
+   infectieux
+Les matériaux sont classés en trois groupes qui correspondent à
+différents niveaux de risque infectieux pour le patient, en fonction de
+la nature de la partie du corps avec lequel le dispositif entre en contact
+lors de son utilisation.
+Le traitement du matériel consiste à éliminer les salissures, et réduire
+la flore microbienne présente sur le matériel après les soins, de façon
+à réduire le risque de transmission des germes d’un patient à un autre.
+Il comprend plusieurs étapes telles que le nettoyage, la désinfection et
+la stérilisation si nécessaire (chapitre V processus de stérilisation).
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                                   21
+    Tableau 3 : les mesures d’hygiène des équipements par niveau
+                         de risque infectieux
+                                                          Niveau de        Mesures
+                                      Exemple               Risque        d’Hygiene
+                                                          Infectieux
+ Sans contact avec             Garrot, stéthoscope,      Faible        A nettoyer et
+ le malade ou en               tensiomètre,                            désinfecter
+ contact avec la peau          thermomètre,                            après chaque
+ saine                         sonde d’échographie                     usage
+                               classique, autoclave,
+                               distillateur, soudeuse,
+                               ECG…
+ En contact avec                Canule de Guedel,        Médian        A stériliser après
+ les muqueuses                 pince de Magill,                        chaque usage
+ ou la peau lésée              spéculums vaginaux,
+ superficiellement             sonde échographie
+                               endovaginale,
+                               laryngoscope...
+ Matériel introduit            Matériel d’injection et Haut            A stériliser après
+ dans le système               matériel dentaire                       chaque usage
+ vasculaire, dans une
+ cavité ou tout autre
+ tissu stérile, quelle
+ que soit la voie
+ d’abord
+
+
+5. Techniques de nettoyage et de désinfection
+5. 1. Principes généraux
+Les recommandations suivantes s’appliquent quelles que soient les
+techniques d’entretien utilisées. Elles restent valables dans toutes les
+zones. Il s’agit de :
+    • Porter une tenue vestimentaire propre et adaptée. Cette tenue
+        doit prendre en compte certaines mesures spécifiques en cas
+        d’isolement du patient (précautions particulières).
+    • Pratiquer une hygiène des mains (lavage simple ou friction
+        hydro-alcoolique) au minimum en début et fin des opérations
+        de nettoyage, et chaque fois que nécessaire.
+
+
+
+        Sécurité Sanitaire des ESSP
+        Guide du Professionnel
+                                                                                       22
+   •     Porter des gants pour assurer la protection du personnel lors
+         de la plupart des actions d’entretien.
+      • Porter des gants à usage unique à manchettes longues (de
+         préférence sans latex). Les gants sont éliminés entre chaque
+         local.
+Le port de « gants de ménage » est une alternative sous réserve qu’ils
+soient :
+      • Individuels,
+      • Lavés à l’eau et au savon entre chaque local,
+      • Nettoyés à l’extérieur et à l’intérieur en fin de journée.
+Respecter un ordre logique dans le déroulement des opérations :
+      • Commencer par les locaux les moins contaminés,
+      • Aller du propre vers le sale et du haut vers le bas,
+      • Toujours nettoyer avant de désinfecter.
+Vérifier que le matériel de nettoyage soit en bon état de fonctionnement
+et en conformité avec les règles de sécurité. Le matériel utilisé sera
+nettoyé et désinfecté après utilisation.
+
+5. 2. Techniques d’entretien
+Les 3 techniques d’entretien des locaux principalement utilisées au
+niveau des ESSP sont :
+     • Les techniques de dépoussiérage
+     • Les techniques de lavage des sols
+     • La technique d’entretien par la vapeur
+
+5. 2.1. Techniques de dépoussiérage :
+       • Essuyage humide des surfaces
+       • Balayage humide
+       • Nettoyage par aspiration
+
+
+
+
+        Sécurité Sanitaire des ESSP
+        Guide du Professionnel
+                                                                     23
+                Tableau 4 : Les techniques de dépoussiérage
+        Techniques                           Définition                    Objectifs
+ Essuyage humide des                 Opération qui consiste         Eliminer les souillures
+ surfaces                            à enlever d’une surface
+                                     autre que le sol des
+                                     salissures en évitant de les
+                                     remettre en suspension
+                                     dans l’air
+ Balayage humide                     Opération de récupération      Eliminer jusqu’à 90%
+                                     des salissures non             des poussières en
+                                     adhérentes sur les sols        limitant leur mise en
+                                     secs et lisses                 suspension dans l’air
+
+
+ Nettoyage par aspiration            Opération de récupération      Dépoussiérer les
+                                     des particules déposées        surfaces lorsque le
+                                     sur des revêtements (sol       balayage humide est
+                                     et parois) durs, souples       impossible. L’aspiration
+                                     ou textiles grâce à la         de l’eau sera traitée
+                                     dépression d’un appareil       dans le cadre du
+                                     électrique                     traitement des sols
+                                                                    (décapage mouillé)
+
+5. 2.2. Techniques de lavage des sols :
+     • Le lavage manuel
+     • Le lavage mécanisé
+Préalable : en règle générale toute opération de lavage des sols sera
+précédée d’un balayage humide.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                                            24
+                  Tableau 5 : Les techniques de lavage des sols
+       Lavage Manuel                            Définition                   Objectifs
+ •    Balai de lavage à plat           Action chimique et             •   Obtenir une
+ •    Balai réservoir (ou              mécanique permettant               propreté visuelle
+      applicateur)                     d’éliminer les salissures      •   Obtenir une
+ •    Balai FAUBERT                    adhérentes sur les sols            propreté
+                                       lavables (sols souples, sols       microbiologique
+                                       durs)                              en réduisant
+                                                                          le nombre de
+                                                                          micro-organismes
+                                                                          présents sur les sols
+
+
+     Lavage Automatique                         Définition                   Objectifs
+ •    Mono brosse                      Action chimique et             Réaliser un nettoyage
+ •    Auto laveuse                     mécanique (à l’aide d’une      approfondi en
+                                       machine) permettant            éliminant les salissures
+                                       d’éliminer les salissures      adhérentes et le biofilm
+                                       adhérentes sur les sols
+                                       lavables (souples et durs)
+
+5. 2.3. Technique d’entretien par la vapeur
+Objectif :
+Nettoyer toutes les surfaces, matériaux et équipements.
+
+Principes :
+La vapeur est un gaz qui réunit en un seul temps une activité détersive
+et biocide (effets conjugués de la température, de la pression).
+
+La vapeur est un gaz au pouvoir nettoyant très performant ; elle agit
+comme un tensio-actif qui dissout les graisses et nettoie en profondeur.
+
+5. 3. Choix des produits
+L’hygiène, au niveau des établissements de soins, exige des locaux
+propres mais aussi désinfectés, c’est-à-dire des locaux où sont
+éliminés régulièrement les salissures et les micro-organismes de
+l’environnement.
+
+
+         Sécurité Sanitaire des ESSP
+         Guide du Professionnel
+                                                                                             25
+Pour mener à bien ces opérations, le personnel de soins dispose de
+produits spécifiques :
+     • Des détergents,
+     • Des désinfectants,
+     • Des détergents désinfectants,
+     • Des détergents détartrants désinfectants.
+
+
+
+
+      Sécurité Sanitaire des ESSP
+      Guide du Professionnel
+                                                               26
+                                                                 Tableau 6 : Produits pour le nettoyage et la désinfection de l’environnement interne
+
+                                                              Caractéristiques       Indications                                 Classification                               Critère de choix
+                                                  Détergent   • Substance            Lavage                                                               EXEMPLES          • Posséder une
+                                                                                                     PH       CLASSIFICATION            EXEMPLES
+                                                                 contenant           des sols et                                                        D’INDICATIONS         efficacité maximale
+                                                                 des tensio-         surfaces               Fortement acide         Détartrant        Sanitaires              et être adapté aux
+                                                                 actifs, destinée                   0à3                                                                       souillures à éliminer,
+                                                                 à favoriser                                                                                                • Être stable à la
+                                                                 l’élimination                                                                                                chaleur, au froid, à
+
+
+
+
+ Guide du Professionnel
+                                                                                                            Faiblement acide        Désincrustant     Carrelages
+
+
+
+
+                    Sécurité Sanitaire des ESSP
+                                                                 par l’eau de                                                                                                 l’air et à la lumière,
+                                                                                                    3à6
+                                                                 souillures non                                                                                             • Avoir une toxicité
+                                                                 solubles dans                                                                                                minimale pour les
+                                                                 l’eau pure.                                Neutre                  Détergent neutre Tous sols                utilisateurs,
+                                                              • Le détergent a                       7                                                                      • Être biodégradable
+                                                                 uniquement                                                                                                   à 90%,
+                                                                 des propriétés                             Faiblement alcalin      Détergent alcalin Sols très encrassés   • Ne pas être agressif
+                                                                 nettoyantes,                      8 à 11                                                                     vis-à-vis du matériel
+                                                                 il ne détruit                                                                                                et des supports,
+                                                                 pas les micro-                    11 à 14 Fortement alcalin        Dégraissant       Décapant Locaux       • Se diluer facilement,
+                                                                 organismes par                                                     surpuissant       de cuisine            • Être adapté à la
+                                                                 action directe                                                                       Elimination             nature de l’eau
+                                                                 mais contribue à                                                                     des couches             (dureté),
+                                                                 leur élimination                                                                     d’émulsion            • Se rincer facilement
+                                                                 par action                                                                                                   si besoin,
+                                                                 mécanique.                                                                                                 • Avoir un
+                                                              • Après utilisation                                                                                             conditionnement
+                                                                 d’un détergent,                                                                                              adapté au besoin de
+                                                                 les surfaces sont                                                                                            l’établissement,
+                                                                 visuellement                                                                                               • Avoir un bon rapport
+                                                                 propres                                                                                                      qualité / prix.
+                                                                 mais non
+                                                                 désinfectées.
+
+
+
+
+27
+                                                                       Caractéristiques                     Indications                       Classification                Critère de choix
+                                                  Désinfectant   • Produit utilisé pour la          Un nettoyage doit                • Les chlorés : eau de Javel     • Avoir un spectre d’activité
+                                                                    désinfection des milieux        impérativement précéder          • Les ammoniums quaternaires       en fonction des objectifs
+                                                                    inertes dans des conditions     l’application d’un               • Les phénols                      fixés,
+                                                                    définies.                       désinfectant. Un rinçage         • Les alcools                    • Avoir une toxicité minimale
+                                                                 • Un désinfectant contient         peut être nécessaire entre       • Les amphotères                   pour les utilisateurs et pour
+                                                                    au moins un principe            l’application du détergent       • Les biguanides                   les patients,
+                                                                    actif doué de propriétés        et du désinfectant. Le           • Les oxydants                   • Être biodégradable,
+                                                                    antimicrobiennes et dont        désinfectant peut être utilisé   • Les aldéhydes : les produits   • Ne pas être agressif vis-à-vis
+                                                                    l’activité est déterminée       par contact direct ou en            contenant des aldéhydes         du matériel à traiter,
+                                                                    par un système normatif                                             sont à éviter en raison de    • Être compatible avec le
+
+
+
+
+ Guide du Professionnel
+                                                                                                    spray.
+
+
+
+
+                    Sécurité Sanitaire des ESSP
+                                                                    reconnu.                                                            leur toxicité                   détergent utilisé pour le
+                                                                 • Ce produit doit satisfaire aux                                                                       nettoyage préalable,
+                                                                    normes AFNOR de base de                                                                           • Avoir un conditionnement
+                                                                    bactéricide (NFT 72 152 ou                                       La plupart des produits            adapté au besoin de
+                                                                    EN 1040 et NFT 72 170 ou                                         désinfectants associent            l’établissement,
+                                                                    171).                                                            plusieurs principes actifs.      • Avoir un bon rapport qualité
+                                                                 • Il peut en outre, présenter                                                                          / prix
+                                                                    des caractéristiques
+                                                                    supplémentaires :
+                                                                       -- Fongicide (NFT 72 202
+                                                                          ou EN 1275),
+                                                                       -- Virucide (NFT 72 180),
+                                                                       -- sporicide (NFT 72 230
+                                                                          ou 231)
+                                                  Détergent      • Produit présentant la double     Association de détergence et                                      • Posséder les mêmes
+                                                  désinfectant     propriété de détergence et       de désinfection                                                     critères de choix que les
+                                                                   de désinfection.                                                                                     désinfectants,
+                                                                 • Son utilisation permet                                                                             • Avoir un bon pouvoir
+                                                                   un gain de temps et une                                                                              nettoyant.
+                                                                   simplification du travail. Il                                                                      • Avoir un bon rapport
+                                                                   se caractérise généralement                                                                          qualité/prix
+                                                                   par un bon pouvoir
+                                                                   désinfectant mais une faible
+                                                                   détergence.
+
+
+
+
+28
+                                                                 • En général, ces produits ne
+                                                                   nécessitent pas de rinçage.
+                                                                       Caractéristiques                     Indications                   Classification                Critère de choix
+                                                  Détergent      • Produit présentant la triple     Association de détergence,   • Les chlorés : eau de Javel     • Posséder les mêmes
+                                                  détartrant       propriété de détergence,         de détartrage et de          • Les ammoniums quaternaires       critères de choix que les
+                                                  désinfectant     de détartrage et de              désinfection                 • Les phénols                      désinfectants,
+                                                                   désinfection. Son utilisation                                 • Les alcools                    • Avoir un bon pouvoir
+                                                                   permet un gain de temps,                                      • Les amphotères                   nettoyant,
+                                                                   une simplification du travail.                                • Les biguanides                 • Avoir un bon pouvoir
+                                                                 • Ce produit, adapté                                            • Les oxydants                     détartrant,
+                                                                   essentiellement à l’entretien                                 • Les aldéhydes : les produits   • Avoir une toxicité minimale
+
+
+
+
+ Guide du Professionnel
+                    Sécurité Sanitaire des ESSP
+                                                                   des sanitaires, nécessite                                        contenant des aldéhydes         pour les utilisateurs et
+                                                                   un temps de contact avant                                        sont à éviter en raison de      les patients (préférer les
+                                                                   une action mécanique. Il                                         leur toxicité                   produits mousse, produisant
+                                                                   doit être suivi d’un rinçage.                                                                    moins d’aérosols que les
+                                                                   Il est présenté en flacon                                     La plupart des produits            produits liquides),
+                                                                   pulvérisateur sous forme                                      désinfectants associent          • Avoir un conditionnement
+                                                                   liquide ou mousse.                                            plusieurs principes actifs.        adapté,
+                                                                                                                                                                  • Ne pas être agressif pour le
+                                                                                                                                                                    matériel et les supports,
+                                                                                                                                                                  • un bon rapport qualité/prix.
+
+
+
+
+29
+5. 4. Périodicités des opérations de nettoyage
+Les fréquences des opérations de nettoyage sont une donnée très
+flexible.
+Chaque situation est un cas particulier, aussi les périodicités seront
+déterminées suivant la classification des locaux, le taux d’occupation,
+le choix des produits, des méthodes et les moyens en personnel.
+Tenant compte de tous ces paramètres, une organisation écrite sera
+mise en place. Le calendrier périodique institué, devra permettre une
+traçabilité.
+Les calendriers proposés, ci-après, représentent une base pour aider à
+la réalisation concrète des planifications de chaque situation.
+En règle générale, on peut classer les opérations de nettoyage et
+d’entretien en plusieurs catégories dans chaque classification des
+locaux :
+      • Entretien pluriquotidien,
+      • Entretien journalier,
+      • Entretien hebdomadaire,
+      • Entretien mensuel,
+      • Entretien trimestriel,
+      • Entretien annuel.
+En général, toute surface sale doit être nettoyée chaque fois que cela
+est nécessaire. Cette périodicité sera déterminée selon la nature et la
+fréquentation des locaux.
+Le tableau de périodicité ci-dessous est proposé à titre indicatif, d’où le
+choix entre plusieurs fréquences, qui sera déterminé selon la nature et
+la fréquentation des locaux.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        30
+               Tableau 7 : Périodicité de nettoyage de la zone 1
+                                  Tous les    1 fois /   1 fois /   1 fois / 3 1 fois / 6 1 fois / an
+                                   jours     semaine      mois        mois       mois
+Evacuation déchets et
+linge sale
+Téléphones, poignées
+de porte, interrupteurs,
+sonnettes...
+Extérieur du mobilier
+Sanitaires, lavabos, WC
+Balayage humide sols
+Lavage des sols
+Supports poubelle
+Lavage mécanisé des sols
+Intérieur mobilier,
+placard
+Vitres
+Murs - Portes*- Grilles
+de ventilation
+
+
+               Tableau 8 : Périodicité de nettoyage de la zone 2
+                                                     1 fois /
+                                 Tous les jours                     1 fois / mois   1 fois / 3 mois
+                                                    semaine
+Evacuation déchets et
+linge sale
+Téléphones, poignées
+de porte, interrupteurs,
+sonnettes...
+Extérieur du mobilier
+Sanitaires, lavabos, WC
+Balayage humide sols
+Lavage des sols
+Supports poubelle
+Lavage mécanisé des
+sols
+Intérieur mobilier,
+placard
+Vitres
+Murs – Portes - Grilles
+de ventilation
+
+
+         Sécurité Sanitaire des ESSP
+         Guide du Professionnel
+                                                                                                 31
+                Tableau 9 : Périodicité de nettoyage de la zone 3
+                                         Pluri -    Tous les    1 fois /   1 fois /   1 fois /
+                                        quotidien    jours     semaine      mois      3 mois
+ Evacuation déchets et linge sale
+ Téléphones, poignées de porte,
+ interrupteurs, sonnettes...
+ Extérieur du mobilier
+ Sanitaires, lavabos, WC
+ Balayage humide sols
+ Lavage des sols
+ Supports poubelle
+ Lavage mécanisé des sols
+ Intérieur mobilier, placard
+ Vitres
+ Murs – Portes - Grilles de
+ ventilation
+
+
+5. 5. Conseils et précautions d’emploi des produits
+• Porter des gants obligatoirement. Certains produits et/ou certaines
+  techniques peuvent nécessiter le port de masque et de lunettes de
+  protection ;
+• Ne pas mélanger les produits :
+         -- Risque de réactions chimiques dangereuses pour le
+            manipulateur,
+         -- Risque d’inactivation et d’incompatibilité ;
+• Respecter les indications d’utilisation :
+         -- Respecter les dosages,
+         -- Renouveler les solutions selon les indications du fabricant,
+         -- Respecter les temps de contact,
+         -- Respecter la température de l’eau selon les indications du
+            fabricant ;
+• Vaporiser sur les articles d’essuyage et non sur les surfaces pour
+  limiter l’aérosolisation et réduire la pénétration à l’intérieur du
+  matériel sensible à l’humidité (téléphone, boîtier de sonnettes...).
+  Préférer l’utilisation d’un flacon muni d’un bec verseur pour
+  imprégner les articles d’essuyage ;
+
+          Sécurité Sanitaire des ESSP
+          Guide du Professionnel
+                                                                                            32
+• Etiqueter, dater, et fermer les flacons ou pulvérisateurs contenant
+  les produits nécessitant une dilution ;		
+• Proscrire l’utilisation des emballages alimentaires ;
+• Respecter les dates de péremption ;
+• Assurer la rotation des stocks ;
+• Ne jamais verser l’eau dans le produit mais, verser lentement le
+  produit dans l’eau ;
+• Former et informer les utilisateurs sur la nature des produits
+  manipulés et sur les précautions à prendre en cas de projections;
+• Le conditionnement des produits peut être choisi en sachet dose,
+  flacon doseur, bidon avec pompe doseuse, centrale de dosage,
+  …etc. en fonction des facilités d’utilisation, des prévisions de
+  consommation, du coût.
+
+                   Utilisation des produits à base de chlore
+
+  Les désinfectants devraient être choisis en tenant compte des
+  micro-organismes à éliminer, ainsi que de la concentration et du
+  temps de contact recommandés, de la compatibilité chimique
+  avec les surfaces à traiter, de la toxicité, de la facilité d’utilisation
+  et de la stabilité.
+
+  Parmi les produits à base (hypochlorite de sodium ou Eau de Javel
+  12°) figurent les formulations liquides (hypochlorite de sodium),
+  solides ou en poudre (hypochlorite de calcium). Ces formulations
+  se dissolvent dans l’eau pour créer une dilution aqueuse de chlore
+  dans laquelle l’acide hypochloreux non dissocié constitue le
+  composé antimicrobien.
+
+  L’hypochlorite présente un large spectre d’activité antimicrobienne
+  et agit efficacement, à des concentrations différentes, contre
+  plusieurs agents pathogènes courants. Une concentration de 0,05
+  % (500 ppm) suffit, par exemple, pour lutter contre le rotavirus
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                          33
+  mais un taux plus élevé, soit 0,5 % (5000 ppm), est nécessaire pour
+  éliminer certains agents pathogènes particulièrement résistants
+  en milieu de soins.
+  La concentration de 0,1 % (1000 ppm) recommandée dans le cadre
+  de la COVID-19 est suffisante pour inactiver la majeure partie des
+  autres agents pathogènes pouvant être présents en milieu de soins.
+  Il est cependant recommandé d’employer une concentration de
+  0,5 % (5000 ppm) pour éliminer les déversements importants de
+  sang et de fluides corporels (c’est-à-dire plus d’une dizaine de ml)
+
+         Calcul des concentrations d’hypochlorite de sodium
+
+  [% de chlore dans l’hypochlorite de sodium liquide ∕ % de chlore
+  souhaité] – 1 = Nombre total des parts d’eau pour chaque part
+  d’hypochlorite de sodium.
+  Ex : [5% de chlore dans l’hypochlorite de sodium liquide /
+  0,5% de chlore souhaité] -1 = 9 parts d’eau pour chaque part
+  d’hypochlorite de sodium.
+
+6. Démarche qualité
+Le contexte actuel d’évaluation des pratiques professionnelles inclut
+la fonction «entretien et désinfection des locaux» dans une démarche
+qualité.
+Cette démarche qualité peut être entreprise dans les différentes étapes
+de la prestation entretien, à savoir :
+      • La définition des zones d’interventions et des zones à risques,
+      • Les profils de postes,
+      • La qualification et la formation du personnel,
+      • Les techniques et produits utilisés (cahier des charges),
+      • La rédaction et la validation des procédures,
+      • La planification des procédures,
+      • La traçabilité des procédures effectuées.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     34
+La traçabilité fait partie intégrante de la démarche qualité et permet
+de notifier « qui fait quoi et quand ». Ce document, qui sera archivé
+tout en responsabilisant les agents, permet d’assurer des transmissions
+d’une équipe à l’autre.
+
+7. Évaluation de la propreté visuelle
+   • L’évaluation de la prestation «nettoyage» permet d’assurer un
+     suivi du niveau de propreté des locaux.
+   • Le plan de contrôle doit être adapté aux niveaux d’exigence
+     définis par chaque établissement, en fonction de la classification
+     des zones à risque infectieux.
+   • L’objectivité optimale est assurée par l’utilisation d’un système
+     de mesurage simple et validé
+   • Il est nécessaire d’établir un protocole d’évaluation prévoyant qui
+     contrôle, quand est réalisé le contrôle et comment il est effectué.
+
+8. Évaluation microbiologique
+   • L’évaluation de la qualité de la prestation « nettoyage-
+     désinfection » peut faire appel à des indicateurs de type
+     prélèvements d’environnement. Ces prélèvements ne doivent
+     pas être systématiques mais être inclus dans une démarche
+     qualité globale.
+   • Les contrôles d’environnement ont également pour but de
+     sensibiliser et motiver les personnels (réalisés par exemple à
+     l’occasion du renforcement d’une action de formation).
+   • Les prélèvements de surfaces (mobiliers, équipements et
+     dispositifs médicaux situés proches du patient) sont à privilégier
+     par rapport aux prélèvements d’air. Ils sont à réaliser après les
+     procédures de nettoyage ou de nettoyage-désinfection. Les
+     prélèvements réalisés au niveau des sols et des murs n’ont pas
+     démontré d’intérêt.
+   • Le plan de prélèvement doit être adapté aux locaux et doit suivre
+     une analyse du risque infectieux lié à l’environnement (les points
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     35
+     prélevés doivent être ceux qui présentent le risque infectieux le
+     plus élevé).
+   • La fréquence des prélèvements est à définir en collaboration
+     avec l’équipe opérationnelle en hygiène dans le cadre plus
+     global d’une démarche « qualité - environnement ». Chaque
+     établissement doit définir ses niveaux d’exigence en fonction de
+     ces définitions de zones à risque.
+
+9. Évaluation des procédures
+La démarche d’évaluation de la qualité d’application des procédures
+peut se dérouler sous forme d’audit basé essentiellement sur
+l’observation directe et l’autoévaluation. Il est proposé d’utiliser une
+grille d’évaluation avec un nombre restreint de critères plus facile à
+mettre en œuvre (une fiche d’évaluation est proposée au chapitre VII
+section 2 Check-list). L’impact pédagogique de ce type d’évaluation
+permet également une sensibilisation continue au respect du protocole.
+En fonction des résultats de ce type d’évaluation ponctuelle, il pourra
+être envisagé d’approfondir cette observation par la mise en place d’un
+audit de pratiques, cette démarche étant plus lourde à réaliser.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     36

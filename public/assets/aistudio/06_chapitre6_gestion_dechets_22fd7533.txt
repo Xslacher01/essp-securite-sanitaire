@@ -1,0 +1,702 @@
+   CHAPITRE VI
+Gestion des Déchets
+Les activités de soins de santé permettent de protéger et de rétablir la
+santé, et aussi de sauver des vies. Mais qu’en est-il des déchets et des
+sous-produits de ces activités ?
+85% des déchets liés aux soins de santé sont comparables aux ordures
+ménagères et ne sont pas dangereux. Les 15% restants sont considérés
+comme dangereux et peuvent être infectieux, toxiques ou radioactifs (28).
+
+Il est essentiel d’assurer une gestion sécurisée des déchets médicaux
+afin d’offrir des soins de qualité, d’assurer la sécurité des patients, celle
+du personnel et de protéger l’environnement.
+
+Les déchets liés aux soins de santé doivent être gérés avec plus
+d’attention et de rapidité afin d’éviter les nombreuses maladies
+associées à de mauvaises pratiques, dont l’exposition à des agents
+infectieux et à des substances toxiques (29).
+
+Ce chapitre a pour objectifs d’identifier les différents types de déchets
+collectés dans les ESSP et de décrire la filière de gestion de ces déchets.
+Il traite les modalités du tri, du conditionnement, du ramassage, du
+stockage et de la collecte et défini les responsabilités au niveau de
+l’ESSP. Le transport, le traitement et l’élimination sont des phases qui
+sont assuréées hors de l’ESSP.
+Le champ d’application de ce guide exclut les déchets radioactifs qui
+ne sont pas produits au niveau des ESSP et qui sont soumis à une
+réglementation spécifique.
+
+1. Cadre réglementaire
+Les sociétés humaines produisent des déchets liés à leurs activités et
+à leurs modes de consommation. Le rôle des différentes législations
+et réglementations est d’identifier, nommer, classifier et enfin fixer
+les modalités de gestion et de traitement de ces déchets, et ceci dans
+l’objectif essentiel d’éviter tout danger potentiel qu’ils représentent
+pour l’Homme et son environnement. Dans le domaine de gestion des
+déchets, le cadre juridique national a considérablement évolué ces
+dernières années, avec l’adoption des textes législatifs et réglementaires
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                          71
+suivants:
+1. Loi n°28-00 du 22/09/2006 relative à la gestion des déchets et à leur
+élimination.
+2. Loi n°11-03 du 12/05/2003 relative à la protection et à la mise en
+valeur de l’environnement.
+3. Décret n°2.07.253 du 18/07/2008 portant sur la classification des
+déchets et fixant la liste des déchets dangereux.
+4. Décret n°2-09-139 du 21/05/2009 relatif à la gestion des déchets
+médicaux et pharmaceutiques.
+5. Chartes communales de 1976 et 2003 qui portent sur l’assainissement
+solide et liquide.
+
+2. Définitions et Typologie des Déchets Médicaux
+    et Pharmaceutiques
+2. 1. Définitions
+          ■■ Déchets :
+Le déchet se définie comme tout résidu résultant d’un processus
+d’extraction, exploitation, transformation, production, consommation,
+utilisation, contrôle ou filtration, et d’une manière générale, tout objet
+et matière abandonnés ou que le détenteur doit éliminer pour ne pas
+porter atteinte à la santé, à la salubrité publique et à l’environnement (32).
+
+          ■■ Déchets Médicaux et Pharmaceutiques :
+La loi 28-00 définit les déchets Médicaux et Pharmaceutiques (DMP)
+comme étant tout déchet issu des activités de diagnostic, de suivi et
+de traitement préventif, palliatif ou curatif dans les domaines de la
+médecine humaine ou vétérinaire et tous les déchets résultant des
+activités des hôpitaux publics, des cliniques, des établissements de la
+recherche scientifique, des laboratoires d’analyses opérant dans ces
+domaines et de tous les établissements similaires. D’autres nomination
+des DMP peuvent également être utilisées : déchets d’activités de soins,
+déchets hospitaliers, déchets médicaux et déchets sanitaires (31).
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                           72
+         ■■ Déchets assimilés aux déchets ménagers :
+Ce sont les déchets issus des activités non médicales. Ils sont constitués
+des ordures ménagères, des emballages de conditionnement, des
+déchets administratifs, de balayage, de cuisine, de jardinage des
+travaux, des services généraux, etc (36).
+ Déchets assimilés aux déchets ménagers (non infectieux)     80 %
+ Déchets infectieux et pathologiques                         15 %
+ Déchets piquants et tranchants                               1%
+ Déchets chimiques ou pharmaceutiques                         3%
+ Flacons pressurisés, thermomètres cassés …                  <1%
+
+
+   Tableau 17 : Pourcentage approximatif des déchets produits au
+                         niveau des ESSP (32)
+Les déchets les plus produits au niveau des ESSP sont:
+      • Les déchets assimilés aux déchets ménagers
+      • Les déchets d’activités de soins à risques infectieux (DASRI).
+
+2. 2. Typologie des Déchets Médicaux et Pharmaceutiques
+Les DMP sont classés selon leurs caractéristiques et leur nature en 4
+catégories (32):
+Catégorie 1 :
+      • Déchets comportant un risque d’infection du fait qu’ils
+          contiennent des micro-organismes viables ou des toxines
+          susceptibles de causer la maladie chez l’homme ou chez
+          d’autres organismes vivants ainsi que les organes et tissus
+          humains ou non identifiables ;
+      • Matériel piquant ou tranchant destiné à l’abandon, qu’il ait
+          été ou non en contact avec un produit biologique ;
+      • Produits et dérivés sanguins à usage thérapeutique
+          incomplètement utilisés, avariés ou périmés.
+Catégorie 2 :
+      • Médicaments et produits chimiques et biologiques non
+          utilisés avariés ou périmés ;
+      • Déchets cytostatiques et cytotoxiques.
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       73
+Catégorie 3 :
+      • Organes et tissus humains aisément identifiables par un non
+          spécialiste.
+Catégorie 4 :
+      • Déchets assimilés aux déchets ménagers.
+
+3. Risques sur la Santé
+Les déchets liés aux soins de santé constituent un réservoir de micro-
+organismes susceptibles d’infecter les patients, les personnels de santé
+et le grand public.
+      • Le risque le plus important dû aux DASRI est le risque de piqûre
+        accidentelle avec des aiguilles, qui peut être à l’origine d’une
+        infection par les virus de l’hépatite B(VHB), de l’hépatite C
+        (VHC) ou par le virus de l’immunodéficience humaine (VIH) (32).
+Un grand nombre d’autres maladies peuvent cependant être transmises
+par le contact avec des DASRI.
+     • Les déchets et les sous-produits peuvent également causer
+       d’autres effets néfastes pour la santé, par exemple :
+        -- Brûlures par exposition aux produits acides par exemple ;
+        -- Blessures causées par des objets pointus ou tranchants ;
+        -- Intoxication et pollution dues au rejet de produits
+           pharmaceutiques, toxique et cytotoxiques ;
+     • Les risques ressentis par la population et les professionnels
+       de santé peuvent être aussi d’ordre psycho-émotionnels et se
+       traduisent par la crainte du public, des professionnels de santé
+       ou des agents lorsqu’ils reconnaissent des déchets souillés par
+       du sang, du liquide biologique ou des pièces anatomiques.
+     • Les risques chimiques ou toxicologiques peuvent être liés :
+        -- A certains produits de décontamination, de désinfection ou
+           de nettoyage
+        -- Aux solvants et produits utilisés dans les laboratoires ;
+        -- Aux métaux lourds notamment le mercure des thermomètres
+           cassés ou des amalgames utilisés en chirurgie dentaires.
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     74
+      • Les risques de pollution du sol, de l’eau et de l’air :
+Quand ils sont déversés dans le milieu naturel ou au niveau des
+décharges publiques, les déchets contaminés entraînent une
+contamination bactériologique ou toxique du sol et des nappes
+phréatiques, surtout lorsque les déchets sont déposés sur des terrains
+perméables.
+      • Les risques liés à la manutention :
+C’est un risque qui menace les personnes en charge de la manutention
+lorsque les conteneurs et le matériel de transport sont trop lourds ou
+les chariots sont peu maniables (dorsalgie, lombalgie, etc.)(28).
+
+
+
+
+      Sécurité Sanitaire des ESSP
+      Guide du Professionnel
+                                                                   75
+Tableau 18 : Principales maladies résultant de l’exposition aux DASRI (35)
+                                                                 Sources/ Mode de
+     Maladies                         Agent causal
+                                                                   transmission
+ Gastro-entérites        Entérobactéries : Salmonella, Matières fécales et
+                         Schigella ; Vibrion Cholérique; Vomissements.
+                         Helmintes.
+ Infections              Bacille de la tuberculose, virus Respiration, Secrétions
+ Respiratoires           de la rougeole, streptocoque Aériennes, Salive.
+                         des Pneumonies.
+ Infections              Virus de l’herpès               Secrétions oculaires :
+ oculaires                                               Larmes.
+ Infections              Neisseria gonorrhée, virus de   Secrétions génitales
+ génitales (IST)         l’herpès,
+ Infections      Streptocoque.                           Pus.
+ dermatologiques
+ Anthrax                 Bacillus antracis.              Secrétions dermiques,
+                                                         Respiratoires, gouttelettes de
+                                                         salive.
+ Méningite               Meissiria meningitidis          Liquide cérébro-spinal,
+                                                         Respiration.
+ SIDA                    VIH                             Sang, secrétions génitales
+ Fièvre                  Ebola, Marburg virus.           Sang et secrétions de
+ Hémorragique                                            l’organisme.
+ Septicémie              Staphylocoque.                  Sang.
+ Bactériémie             Staphylocoque, aureus,          Sang.
+                         entérobactérie, enterococcus
+ Candidaemie             Candida albicans.               Sang.
+ Hépatite A              Virus de l’hépatite A.          Matières fécales
+ Hépatite B et C         Virus de l’hépatite B           Sang et secrétions de
+                         Virus de l’hépatite C           l’organisme.
+
+
+4. Risques sur l’Environnement
+La Loi n° 11-03 stipule la protection et la mise en valeur de
+l’environnement. Le traitement et l’élimination des déchets liés aux
+soins peuvent entraîner indirectement des risques pour la santé en
+raison du rejet d’agents pathogènes et de polluants toxiques dans
+l’environnement.
+
+        Sécurité Sanitaire des ESSP
+        Guide du Professionnel
+                                                                                      76
+    L’enfouissement des organes et tissus humains s’il n’est pas
+bien réalisé, peut contaminer l’eau de boisson. Les déchetteries mal
+conçues, mal gérées ou mal entretenues représentent un risque pour
+ceux qui y travaillent.
+    L’incinération des déchets a été largement pratiquée mais une
+incinération imparfaite ou l’incinération de matériaux inadaptés à
+ce mode d’élimination entraîne le rejet de polluants et de résidus de
+cendres dans l’atmosphère. L’incinération de matériaux contenant
+du chlore peut produire des dioxines et des furanes, cancérogènes
+pour l’homme et qui ont été associés à divers effets néfastes sur la
+santé. L’incinération des métaux lourds ou de matériaux contenant
+une grande quantité de métal (en particulier du plomb, du mercure
+ou du cadmium) peut entraîner le rejet de métaux toxiques dans
+l’environnement.
+    Seuls les incinérateurs modernes atteignant une température
+comprise entre 850 °C et 1100 °C et équipés d’un dispositif d’épuration
+des gaz d’échappement sont conformes aux normes internationales
+relatives aux émissions de dioxines et de furanes.
+    Pendant l’incinération, si un filtrage propre n’est pas effectué, l’air
+peut également être pollué et causer des maladies à la population
+environnante. Ceci doit être pris en compte dans le choix de méthodes
+de traitement et d’élimination des déchets en réalisant une rapide
+évaluation d’impact environnemental.
+    Aujourd’hui il existe d’autres solutions, telles que l’autoclavage, le
+traitement par micro-ondes ou le traitement par la vapeur associée au
+broyage interne, et le traitement chimique et le traitement à l’ozone.
+    En définitive, le dépôt des déchets de soins médicaux dans des
+zones non contrôlées peut avoir un effet environnemental direct par la
+contamination des sols et des nappes souterraines.
+    Les autres risques infectieux potentiels sont notamment le rejet
+dans l’environnement de micro-organismes pharmaco résistants
+présents dans les établissements de soins qui peut avoir un impact
+néfaste sur la santé, la faune et la flore et les nappes phréatiques, et
+donc constitue un risque d’atteinte à l’environnement.
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        77
+5. Gestion des Déchets Médicaux et
+    Pharmaceutiques
+Toute personne qui détient ou produit des déchets, dans des conditions
+de nature à produire des effets nocifs sur le sol, la faune et la flore,
+à dégrader les sites ou les paysages, à polluer l’air ou les eaux, à
+engendrer des odeurs, ou d’une façon générale, à porter atteinte à la
+santé de l’homme et à l’environnement, est tenue d’en assurer ou d’en
+faire assurer l’élimination dans les conditions propres à éviter lesdits
+effets, et ce, conformément aux dispositions de la présente loi et ses
+textes d’application.(art 6 de la Loi 28-00)
+
+5. 1. Préalables de la mise en place de la gestion des
+      Déchets Médicaux et Pharmaceutiques
+Les ESSP sont tenus de mettre en place un système de gestion interne
+qui comprend notamment :
+• La désignation d’un point focal de la sécurité sanitaire (dont la
+  gestion des déchets) au niveau de l’ESSP.
+• La disposition d’un personnel qualifié et formé à l’exercice de ces
+  activités de gestion des déchets.
+• La tenue d’un registre pour inscrire les quantités, la catégorie et
+  l’origine des déchets produits, collectés, stockés et éliminés.
+
+Selon les recommandations de l’OMS, chaque ESSP devra préparer un
+plan de gestion des déchets déterminant les objectifs, les activités, les
+intervenants et leurs attributions, les ressources nécessaires ainsi que
+les mécanismes de suivi et de contrôle.
+
+La formation, l’information et la sensibilisation régulière du personnel
+doivent faire partie intégrante du plan de gestion des déchets. La
+formation doit porter sur :
+         * Les risques engendrés par les DMP, plus particulièrement
+           les DASRI.
+         * Les précautions à prendre et les méthodes à appliquer pour
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      78
+           une élimination optimale de ces déchets.
+         * L’importance d’avoir dans chaque établissement, un fond
+           documentaire comportant des procédures et des fiches
+           techniques sur le circuit des déchets, les mesures de
+           protection du personnel, les comptes rendus des audits,
+           des documents de traçabilité des opérations de traitement
+           des déchets.
+Tous les établissements doivent être dotés suffisamment en matériel
+nécessaire, avec des spécifications techniques conformes aux exigences
+recommandées. (Voir section 5.2. Filière de gestion des DMP)
+
+5. 2. Filière de gestion des Déchets Médicaux et
+      Pharmaceutiques
+La gestion des DMP comporte le tri à la source, le conditionnement, le
+ramassage et le stockage ainsi que la collecte, le transport, le traitement
+et l’élimination de ces déchets.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        79
+TRI
+QUI?
+ Par le personnel soignant
+ Sur le lieu de génération des déchets
+
+CONDITIONNEMENT
+COMMENT?
+Dans des sacs et conteneurs de couleurs diﬀérentes qui
+respectent les conditions de sécurité
+
+
+
+
+                                                          Au Niveau de l’ESSP
+RAMASSAGE
+COMMENT?
+Selon le planning
+Respect des circuits
+
+STOCKAGE
+OÙ?
+Local bien déﬁni avec accès limité
+QUI?
+Personnel formé
+
+COLLECTE
+COMMENT?
+Assurer la traçabilité et la supervision
+
+TRANSPORT
+                                                          Hors ESSP
+
+
+
+
+TRAITEMENT
+
+
+ELIMINATION
+
+             Figure 10 : Filière de gestion des déchets
+
+
+ Sécurité Sanitaire des ESSP
+ Guide du Professionnel
+                                                                                80
+5. 2.1. Tri et Conditionnement (32)
+Le tri est une opération qui s’effectue au lieu de génération des déchets
+et à travers laquelle chaque catégorie de déchets est mise dans un sac
+ou conteneur qui lui convient (voir tableau 20 ci-dessous) et orientée
+vers une filière précise.
+Une grande vigilance doit caractériser les modalités de tri des déchets
+afin d’éviter que les déchets à risque ne se mélangent avec les déchets
+assimilés aux déchets ménagers.
+
+Le conditionnement est destiné à contenir les différentes catégories
+des DMP. Pour les déchets contaminés, il constitue une barrière
+physique contre les micro-organismes pathogènes qu’ils contiennent.
+Le conditionnement recommandé pour les différentes catégories de
+déchets est le suivant :
+     • Déchets piquants et tranchants, qui seront dans tous les cas
+       considérés comme infectieux, à collecter, dès leur génération,
+       dans des conteneurs rigides et étanches de couleur jaune.
+       Cette rigidité permet d’éviter tout risque de perforation du
+       conteneur qui exposerait les manipulateurs à des blessures
+       susceptibles de s’infecter. Ces conteneurs doivent être d’un
+       volume adapté au rythme de production.
+     • Les déchets à risque infectieux doivent être collectés dans
+       des sacs étanches de couleur rouge. Cette étanchéité permet
+       d’éviter le risque de fuite de liquides infectieux, car ce genre
+       de déchets se présente aussi sous une forme pâteuse ou
+       semi-liquide, tels que sang ou selles des malades. Les sacs des
+       déchets infectieux doivent être en plastique et doivent être
+       obligatoirement traités.
+     • Les déchets anatomiques constitués par les organes et
+       parties du corps qui sont identifiables par un non spécialiste
+       doivent être désinfectés et bien emballés et puis remis aux
+       services compétents (Bureaux Municipaux d’Hygiène) pour
+       enfouissement. Les placentas doivent être conditionnés dans
+       des sacs en plastique blancs (de préférables deux sacs en
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      81
+         plastique) et mise dans un congélateur réservé à cet effet, en
+         attente de la collecte par des services compétents pour leur
+         enfouissement ou pour traitement par incinération. Pour les
+         établissements qui ne sont pas équipés de congélateur, il est
+         recommandé que la collecte des placentas se fasse dans les 24
+         heures.
+      • Les produits chimiques ou pharmaceutiques doivent être
+         collectés dans des sacs étanches de couleur marron.
+      • Les autres déchets spéciaux (ex. : Métaux lourds), s’ils existent,
+         doivent être collectés séparément mais ne justifient pas de
+         collecteurs spéciaux, car ils sont produits en faible quantité et
+         ont une nature très diverse qui ne permet pas de les mélanger
+         entre eux.
+      • Déchets assimilés aux déchets ménagers, à collecter dans des
+         sacs de couleur noire.
+Il est recommandé que les sacs et conteneurs des DMP portent des
+symboles internationaux de risque. Comme par exemple le symbole de
+risque biologique pour les déchets infectieux.
+
+
+
+
+        Figure 11 : Symbole international du risque biologique
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       82
+La disponibilité des conteneurs à déchets est l’un des facteur de la
+garantie de la sécurité pour l’ensemble de la filière de gestion des DMP.
+Chaque cellule de soins doit disposer :
+       • D’un conteneur pour déchets piquants et coupants ;
+       • D’un collecteur (ou poubelle à couvercle) pour déchets infectieux;
+       • D’un collecteur (ou poubelle à couvercle) pour déchets
+         assimilés aux déchets ménagers.
+Les collecteurs pour déchets doivent être rigides, étanches, avec une
+ouverture suffisante, incinérables (ne contenant pas des composés
+chlorés) et d’un volume adapté à la production des déchets.
+Les conteneurs destinés à contenir des objets piquants et coupants
+sont des boites en polyéthylène de différentes capacités (1,4 litre, 3
+litres et 7,6 litres). Le conteneur doit être identifié par sa couleur jaune
+et par une inscription qui indique le danger de sa manipulation par les
+patients, et les visiteurs. Ils ne doivent être utilisés que pour la collecte
+des déchets médicaux piquants ou tranchants à l’exclusion de tout
+autre objet.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                          83
+Le choix et l’utilisation des conteneurs doivent obéir aux
+conditions de sécurité notamment :
+  • La résistance mécanique aux chocs, à la perforation et à la
+    compression ;
+  • L’étanchéité aux liquides résiduels ;
+  • La visualisation du niveau de remplissage et l’indication du niveau
+    maximal de remplissage ;
+  • L’absence de risque de reflux hors du conteneur ;
+  • Le système de fermeture doit être solidaire du dispositif,
+    hermétique et inviolable afin d’éviter la fuite ou le renversement
+    du contenu, lors de son évacuation ;
+  • Le conteneur doit disposer d’une poignée permettant une
+    préhension et un transport aisés.
+  • Deux types de conteneurs peuvent être utilisés en fonction des
+    niveaux d’utilisation:
+  • Conteneurs fixes de 40 à 50 litres (au niveau du lieu de production
+    des déchets) ;
+  • Conteneurs de 240 à 1000 litres au lieu d’entreposage/stockage ;
+  • Tous les conteneurs doivent avoir des couvercles et de préférence
+    munies de pédales.
+
+
+
+
+    Figure 12 : Conteneurs pour conditionnement des déchets :
+     ménagers ou assimilables (sac noir), infectieux (sac rouge)
+
+
+
+
+       Figure 13 : conteneur pour déchets piquants tranchants
+
+
+   Sécurité Sanitaire des ESSP
+   Guide du Professionnel
+                                                                      84
+Tableau 19: Tri et conditionnement des DMP selon la catégorie (32)
+Catégories                          Exemple             Conditionnement Collecteurs
+
+Catégorie 1 a) déchets              - Cultures des      Sacs en plastique
+            à risques               laboratoires,       résistants et
+            infectieux              - Déchets des       étanches de
+                                    pansements de       couleur rouge
+                                    soins,
+                                    - Déchets
+                                    infectés
+               b) Matériel          - Aiguilles,        Récipients solides
+               piquant              - scalpels,         ou conteneur
+               tranchant            - Bistouris,        hermétiquement
+                                                        fermés, de
+                                                        couleur jaune
+               c) Produits          - Produits          - Sacs en
+               et dérivés du        et dérivés          plastique
+               sang                 sanguins à usage    résistants et
+                                    thérapeutique,      étanches de
+                                    incomplètement      couleur rouge
+                                    utilisés, avariés
+                                    ou périmés
+Catégorie 2 Médicaments             - Médicaments       Sacs en plastique
+            et produits             et produits         résistants et
+            chimiques et            pharmaceutiques     étanches de
+            biologiques             périmés             couleur marron
+            non utilisés,           - Les
+            avariés ou              médicaments
+            périmés                 et les vaccins
+                                    avariés.
+Catégorie 3 Organes et     - Parties du                 Récipients ou sacs
+            tissus humains corps,                       en plastique de
+            aisément       - Fœtus                      couleur : blanc
+            identifiables                               non transparent
+            par un non
+            spécialiste
+Catégorie 4 Déchets                 Déchets de          Sacs en plastique
+            assimilés               l’administration    résistants et
+            aux déchets                                 étanches de
+            ménagers                                    couleur noire
+
+
+
+
+      Sécurité Sanitaire des ESSP
+      Guide du Professionnel
+                                                                                 85
+5. 2.2. Ramassage (32)
+C’est le trajet depuis le lieu de génération des déchets jusqu’au local de
+stockage. Il est recommandé de confier le ramassage à un personnel
+formé. Les horaires de ramassage doivent être fixés par le responsable
+de l’établissement.
+Le circuit des déchets doit s’intégrer dans les circuits prédéfinis de
+l’établissement et doit respecter les règles classiques de flux propres
+et sales, habituellement préconisées dans les établissements de soins.
+Les chariots de ramassage des déchets doivent être munis de
+roues, réservés uniquement à cet usage et fabriqués de matériaux
+facilement lavables ne possédant pas de bords tranchants qui risquent
+d’endommager les sacs en plastique.
+Les consignes suivantes permettent d’organiser un ramassage sans
+risque, elles sont à respecter au niveau de l’ESSP :
+      • Les emballages contenant les déchets souillés par des sécrétions
+         biologiques doivent être évacués le plus rapidement possible
+         vers le local de stockage au moyen de chariots réservés à cet
+         effet. Il est conseillé de désinfecter les emballages souillés par
+         des secrétions biologiques des patients porteurs de maladies
+         contagieuses.
+      • Une fois rempli au ¾ de sa capacité, le sac devra être fermé
+         et une étiquette devra être placée, portant au minimum des
+         informations telles que la nature des déchets, ainsi que la date,
+         le nom de l’ESSP ainsi que l’unité génératrice. Ensuite, le sac à
+         déchets sera placé dans un conteneur adapté. Ce dernier devra
+         être désinfecté après chaque collecte.
+      • Une fois rempli au ¾ de sa capacité, le conteneur des déchets
+         piquants et tranchants devra être soigneusement fermé et une
+         étiquette portant la nature des déchets, le nom de l’ESSP et
+         de la personne qui a fermé le sac, ainsi que la date devra être
+         placé sur une des surfaces latérales du conteneur avant de le
+         mettre dans un sac en plastique de couleur rouge.
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        86
+     • Le ramassage doit être réalisé avec une fréquence adaptée
+       au rythme de production des déchets afin d’éviter toute
+       accumulation des déchets dans les unités de soins.
+
+5. 2.3. Stockage (32)
+Le local pour le stockage doit être désigné au sein de l’établissement.
+Ce local doit être d’une capacité de stockage adaptée aux quantités des
+déchets produits et à la fréquence de leur évacuation.
+Les conteneurs utilisés pour le stockage des déchets catégorie 1 et
+2 doivent être rigides, étanches, humidifuges, solides, résistants au
+claquage et à l’écrasement dans des conditions normales d’utilisation
+et conformes aux normes en vigueur.
+Ils doivent porter une étiquette indiquant la catégorie de déchets qu’ils
+contiennent, la date de leur stockage et être hermétiquement fermés
+pour prévenir toute fuite durant leur transport.
+Les conteneurs sont placés dans un lieu approprié, éloigné des unités
+génératrices des déchets, exclusivement accessibles au personnel
+chargé de la gestion des déchets.
+Les déchets pharmaceutiques et chimiques doivent être entreposés
+séparément des autres déchets.
+Spécifications du local de stockage
+     • Le local de stockage doit être étudié par rapport au
+        fonctionnement de l’ESSP, situé à l’extérieur des bâtiments de
+        l’ESSP tout en restant à l’intérieur du mur de clôture et loin
+        des prises d’air pour la climatisation. Il doit être facilement
+        accessible pour la collecte.
+     • L’aération du local de stockage doit être suffisante.
+     • L’éclairage naturel et/ou artificiel doit être à un niveau
+        satisfaisant.
+     • Il ne doit pas y avoir de stockage des déchets conditionnés à
+        même le sol.
+     • Le revêtement des surfaces : mur, sol, plafond, etc. doit être
+        facile à nettoyer, (lisse, homogène et sans joints). Les matériaux
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       87
+       doivent être étanches, résistants aux produits détergents et
+       désinfectants. Au niveau du sol, il est nécessaire d’installer un
+       point d’évacuation des eaux de lavage muni d’un siphon.
+     • Points d’eau : le local doit comporter des points d’eau
+       permettant le nettoyage, la désinfection rapide et efficace du
+       local, Il est également nécessaire de mettre en place :
+           -- Un poste de lavage des mains ;
+           -- Une aire de lavage des conteneurs de déchets à côté du
+                local de stockage.
+Entretien et nettoyage
+Il est import d’établir un protocole précis d’entretien et un nettoyage
+désinfectant quotidien des surfaces.
+
+5. 2.4. La collecte (32)
+Rôle du professionnel de l’ESSP chargé de la gestion des déchets :
+     • Supervision de la collecte
+     • Enregistrement des paramètres de traçabilité (date, catégories
+       et poids des DMP ainsi que la signature et le cachet du
+       Collecteur.)
+Rôle de l’agent de collecte :
+La collecte et le transport des déchets de la catégorie 1 et 2 s’effectuent
+dans des conteneurs séparés portant une étiquette imperméable et
+à écriture indélébile indiquant la mention « Déchets Infectieux » et
+présentant le symbole international du risque biologique.
+L’étiquette doit comporter les informations suivantes :
+      • Nom du générateur ou du transitaire ;
+      • Nom du transporteur ;
+      • Date d’expédition ;
+      • Catégorie de déchets.
+Un bordereau de suivi prévu à l’article 32 de la loi n°28-00 doit être
+conforme au formulaire en annexe 1 du décret n°2-09-139 du 21 mai
+2009 relatif à la gestion des déchets médicaux et pharmaceutiques
+(voir annexe 4).
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        88
+Ce bordereau de suivi précise notamment la provenance, la nature,
+les caractéristiques, les quantités, la destination des déchets des
+catégories 1 et 2, les modalités de collecte, de transport, de stockage
+et d’élimination de ces déchets ainsi que les parties concernées par ces
+opérations. (Voir Annexe 5)
+
+5. 2.5. Transport , traitement et élimination (32)
+Les modalités de transport des DMP doivent être conformes aux
+dispositions prévues par le décret n°2.09.139 du 21/05/09 relatif à
+la gestion des déchets médicaux et pharmaceutiques Les déchets
+médicaux et pharmaceutiques de catégorie 1 et 2 sont traités et
+éliminés selon des procédés appropriés et reconnus en la matière.
+
+Les organes et tissus d’origine humaine aisément identifiables
+par un non- spécialiste sont enterrés selon les rites religieux et la
+réglementation en vigueur.
+Les organes et tissus d’origine humaine non identifiables sont traités et
+éliminés suivant les mêmes modalités de traitement et d’élimination
+des déchets infectieux.
+
+Il existe actuellement plusieurs technologies pour le traitement des
+DMP :
+      • L’incinération
+      • La désinfection par micro-ondes, thermique et chimique
+      • L’encapsulation
+Les déchets liés aux soins de santé doivent être gérés avec plus
+d’attention et de rapidité afin d’éviter les nombreuses maladies
+associées à de mauvaises pratiques, dont l’exposition à des agents
+infectieux et à des substances toxiques.
+Dans le domaine de la gestion des déchets liés aux soins de santé, les
+améliorations reposent sur les éléments suivants :
+      • La mise en place d’un système complet de répartition des
+         responsabilités, d’allocation des ressources, de manipulation
+         et d’évacuation des déchets.
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      89
+      • Il s’agit d’une action à long terme et les améliorations seront
+        progressives, la sensibilisation aux risques liés aux déchets de
+        soins et aux pratiques permettant de garantir la sécurité et le
+        choix de solutions sûres et respectueuses de l’environnement
+        pour protéger des dangers les personnes qui manipulent,
+        stockent, transportent, traitent ou éliminent les déchets.
+Si des mesures peuvent être prises immédiatement à l’échelon local,
+les responsables doivent soutenir une amélioration durable partout (34).
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     90

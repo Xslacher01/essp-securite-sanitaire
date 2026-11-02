@@ -1,0 +1,401 @@
+CHAPITRE V
+Stérilisation
+La stérilisation est un ensemble de démarches et de moyens visant
+à éliminer d’un matériel propre, les microorganismes vivants qui
+pourraient y être présents, quelle que soit leur nature.
+Un matériel est dit stérile lorsque la probabilité théorique qu’un micro-
+organisme viable soit présent sur un dispositif est égale ou inférieure
+à 1 pour1000000. (Norme NF EN 556 –S 98-107 relative aux exigences
+relatives aux dispositifs médicaux en vue d’obtenir l’étiquetage stérile.
+Février 2002.)
+La stérilisation a comme objectif principal d’éviter au patient comme au
+praticien une infection associée aux soins par contamination croisée.
+
+La stérilisation forme un circuit fermé dont le respect de l’ordre des
+étapes constitue la condition essentielle pour garantir une stérilité
+parfaite du produit traité.
+
+Il existe plusieurs procédés de stérilisation. La stérilisation par chaleur
+humide est la méthode de référence ( plus fiable, plus facile à valider et
+à contrôler) pour les dispositifs médicaux réutilisables. La stérilisation
+par la chaleur humide s’effectue par le biais d’un autoclave menu
+d’un diagramme enregistreur qui permet le suivi des paramètres de
+stérilisation.
+
+1. Phase de pré-désinfection
+La pré-désinfection est le premier traitement à effectuer sur les objets
+et matériels souillés dans le but de :
+     • Eliminer les souillures visibles ;
+     • Diminuer la population de micro-organismes ;
+     • Protéger le personnel lors de la manipulation des instruments ;
+     • Éviter la contamination de l’environnement ;
+     • Faciliter le nettoyage.
+
+C’est une étape indispensable avant toute désinfection ou stérilisation.
+Le matériel est trempé dans un bain de détergent-désinfectant, en
+respectant les recommandations du fabricant. Puis il est rincé à l’eau
+du robinet.
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        59
+La pré-désinfection doit être utilisée le plus rapidement possible et le
+plus près du lieu d‘utilisation.
+
+2. Phase de nettoyage
+Le nettoyage des instruments fait suite à l’opération pré-désinfection
+et doit comprendre le tri qui doit séparer le matériel défectueux de
+celui en bon état.
+Il doit permettre d’éliminer les salissures et d’atteindre le minimum de
+contamination avant la stérilisation, en utilisant un produit détergent
+ou détergent bactéricide de préférence.
+Il consiste à :
+      • Brosser le matériel avec une brosse non abrasive pour éviter
+          la formation de microfissures, lieu privilégié pour la formation
+          d’un biofilm ;
+      • Ouvrir largement les instruments articulés et démonter les
+          instruments à doigt;
+      • Irriguer tout matériel creux à l’aide d’une seringue à usage
+          unique.
+3. Phase de rinçage
+Le rinçage se fait à l’eau courante, il est réalisé de façon manuelle ou
+automatique, un rinçage abondant est obligatoire après l’action de
+détersion.
+
+4. Phase de séchage
+Le matériel est séché soigneusement à l’aide d’un torchon propre ou à
+usage unique.
+
+
+
+
+  ON NE STERILISE BIEN QUE CE QUI EST PROPRE ET SEC
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       60
+5. Phase de conditionnement
+Le conditionnement consiste à :
+      • Remonter les instruments dans leur format initial;
+      • Mettre le matériel dans le conditionnement adéquat,
+        perméable à l’air et à la vapeur et sans qu’il soit trop tassé ou
+        serré:
+           -- Soit dans un emballage à usage unique : Le papier crêpé et
+              le papier lisse, Les sachets thermo-soudés,
+           -- Soit dans un emballage réutilisable : des conteneurs (ou
+              « boîtes ») spécifiques munis de filtre ou de valves pour la
+              stérilisation à la chaleur humide;
+      • Contrôler la fermeture de chaque emballage.
+Le but du conditionnement :
+      • Avant la stérilisation, il permet de protéger le dispositif médical
+        propre d’un risque de recontamination ;
+      • Pendant la stérilisation, il permet le passage de l’agent stérilisant
+        (la vapeur d’eau) ;
+      • Après la stérilisation, il assure la conservation de l’état stérile
+        des dispositifs médicaux et permet la mise à disposition
+        aseptique.
+L’étiquetage consiste à :
+      • Noter la date et la nature du matériel à stériliser sur l’emballage;
+      • Coller un ruban adhésif sur l’emballage (témoin de passage).
+
+6. Phase de stérilisation proprement dite
+La stérilisation a pour objectif d’éliminer ou de tuer les micro-
+organismes portés par des milieux inertes contaminés sur tout le
+matériel thermorésistant précédemment nettoyé et correctement
+conditionné.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                          61
+6. 1. Les paramètres de stérilisation
+Les paramètres de stérilisation sont les évènements de programmation
+qui fixent les caractéristiques du processus de stérilisation, il s'agit de:
+     • Le temps de stérilisation : comptée à partir du moment où la
+       température et la pression choisies sont atteintes ;
+     • La température et la durée d’exposition dépendent du matériel
+       à stériliser. En pratique, on préconisent:
+            -- 125°C / 20 min pour caoutchouc et textile
+            -- 134°C /18min pour les instrument de soins et de petite
+                chirurgie
+     • La pression moyenne est de 03 bars
+NB: l'utilisation de l’eau distillée car des substances en suspension
+dans l’eau (sels minéraux, cuivre …) peuvent être transportées par la
+vapeur et peuvent se déposer sur le matériel.
+
+6. 2. Chargement d’un autoclave
+     • Il ne doit pas endommager le conditionnement et/ou les
+       dispositifs médicaux
+     • Les articles à stériliser ne doivent pas toucher les parois de la
+       cuve ;
+     • Le chargement doit permettre la libre circulation de l’agent
+       stérilisant, ainsi:
+            -- Les sachets (disposés face plastique contre face
+                plastique) ne doivent pas être tassés
+            -- Les boite ne doivent pas être superposées les unes sur
+                les autres ;
+     • Il doit permettre d’éviter une condensation effective en plaçant
+       les charges les plus lourdes en bas et les faces creuses vers le
+       bas.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                         62
+6. 3. les phases de la stérilisation
+Le cycle de stérilisation est composé de trois phases, qui sont:
+     • Le préchauffage: c’est une phase d’alternance de dépressions;
+     • La phase de stérilisation: c’est une phase qui est variable selon
+        le cycle choisis
+     • Le séchage: c’est une phase d’abaissement de la pression
+
+
+
+
+Figure 6 : Diagramme de regnault (Les phases de fonctionnement de l’autoclave)
+
+7. Phase de contrôle
+Il est important de contrôler les diagrammes enregistrés durant le cycle
+de stérilisation pour s’assurer que le matériel a bien été stérilisé, en
+notant :
+     • La montée de la température ;
+     • Le temps de stérilisation ;
+     • La pression, au cours des cycles de stérilisation.
+
+7. 1. Contrôle avant stérilisation : Le test de Bowie et Dick
+Ce test va permettre de contrôler la bonne diffusion de la vapeur dans
+l’enceinte de l’autoclave, il doit être fait chaque jour avant de commencer
+la première charge d’autoclave. Il va contrôler la diffusion de la vapeur à
+l’intérieur de l’autoclave en faisant virer un indicateur coloré.
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                           63
+Il est constitué d'un paquet standard, attaché avec un ruban adhésif et
+il est traité à 134°C pendant 3mn30".
+L’interprétation se fait par la lecture du virage de couleur qui doit être
+homogène sur toute la surface du papier. Dans le cas contraire, il ne
+faut pas utiliser le stérilisateur avant réparation
+
+
+
+
+                           Figure 7 : Test de Bowie et Dick
+
+7. 2. Contrôle pendant la stérilisation : les paramètres
+      température, pression et temps
+Il faut s’assurer du bon fonctionnement de l’autoclave en termes
+d’alimentation électrique, thermomètre, minuterie et joint de porte.
+
+Il faut également, vérifier le diagramme de stérilisation ou le ticket
+d’enregistrement pour s’assurer du bon déroulement du cycle
+c’est-à-dire que les différents paramètres physiques dont la pression,
+la température et la durée ont atteint les valeurs attendues. En effet
+le contrôle de la qualité de la vapeur saturée repose sur la relation
+« pression température » du diagramme de Regnault. Au plateau de
+stérilisation, la vapeur doit présenter une température qui correspond
+à sa pression de vapeur théorique.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       64
+7. 3. Contrôle lors de déchargement
+            -- La siccité de la charge
+• Il faut vérifier l’absence de traces d’humidité au niveau de chaque
+  élément de la charge car l’humidité nuit à la fonction de protection
+  de l’emballage et peut favoriser la contamination microbienne du
+  matériel.
+            -- Indicateur de passage : virage des indicateurs physico-
+                chimiques
+• L’indicateur de passage qui existe sous forme de ruban adhésif ou
+  d’encre auto-virante sur les conditionnements papiers, permet de
+  vérifier par un changement de couleur qu’un dispositif médical a subi
+  une stérilisation, sans en garantir la qualité.
+
+
+
+
+                       Figure 8 : Ruban adhésif de contrôle
+
+             -- Intégrité des conditionnements
+L’intégrité de l’emballage est la seule garantie de la conservation de
+l’état stérile.
+Un article dont l’emballage est détérioré est déclaré non-conforme
+
+
+
+  Le résultat de tous les contrôles doit être conforme aux
+  spécifications pour pouvoir déclarer une charge stérile
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                    65
+8. Phase de stockage
+Le stockage a pour but le maintien de la stérilité du matériel jusqu’au
+moment de son utilisation en assurant l’extraction et l’utilisation de ce
+matériel dans des conditions aseptiques.
+Le stockage se fait dans un endroit propre, en respectant les conditions
+de température et d’humidité adaptées à l’abri de la lumière solaire
+directe et de contamination de toute nature.
+
+9. La traçabilité du cycle de stérilisation
+Le dispositif de traçabilité est essentiel pour assurer le suivi et
+l’évaluation de la stérilisation au niveau de la structure de soins. En effet,
+les ESSP doivent établir «Un registre de stérilisation» pour documenter
+et archiver les données relatives aux activités de stérilisation.
+Généralement, le registre de stérilisation doit renseigner les
+informations de chaque cycle de stérilisation, à savoir : la date,
+l’identité de l’opérateur, la Composition de la charge, les indicateurs
+du contrôle, et toutes autres informations sur le déroulement de la
+stérilisation y compris les mesures de maintenance.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                           66
+                    ‫وزارة اﻟـﺼـــﺤــــﺔ‬                                                                 ‫اﻟﻤﻤﻠﻜـــﺔ اﻟـﻤﻐﺮﺑﯿـــﺔ‬
+
+                  Ministère de la santé                                                                 Royaume du Maroc
+
+
+
+
+                                         ‫ﺍﻟﺴﻼﻣـﺔ ﺍﻟﺼﺤﻴﺔ ﻟﻤﺆﺳﺴـﺎﺕ ﺍﻟﺮﻋﺎﻳـﺔ ﺍﻟﺼﺤﻴـﺔ ﺍﻷﻭﻟﻴـﺔ‬
+                                         Sécurité Sanitaire des Établissements de Soins de Santé Primaires
+
+
+
+
+                                                                   UTILISATION
+      PRÉ-DÉSINFECTION                                                                                                  STOCKAGE
+      Pourquoi?
+      - Eliminer les souillures visibles
+      - Réduire les micro-organismes                                                                                    Pourquoi?
+      - Protéger le personnel et l’environnement                                                                        Maintenir la stérilité du matériel
+      - Faciliter le nettoyage                                                                                          jusqu’au moment de son utilisation
+      Comment?
+      Trempage dans un bac contenant un produit                                                                         Comment?
+      détergent-désinfectant :                                                                                          Conserver dans des conditions
+      - Le plus rapidement possible et le plus près du lieu                                                             aseptiques: endroit propre, sec et à
+        d‘utilisation                                                                                                   l’abri des contaminants
+      - En respectant la concentration du produit et la durée
+        de trempage recommandée
+
+
+
+
+NETTOYAGE                                                                                                                                CONTRÔLE
+
+                                                                                                                                     Pourquoi?
+Pourquoi?                                                                                                                            Garantir une stérilité parfaite du matériel
+Eliminer le produit pré-désinfectant et les
+
+
+                                                     CYCLE
+salissures                                                                                                                           Comment?
+                                                                                                                                     Utiliser le test de Bowie Dick, le
+Comment?                                                                                                                             diagramme d’enregistrement et vériﬁer la
+Brossage non abrasif avec un produit                                                                                                 siccité de la charge, les indicateurs de
+
+
+                                                       DE
+détergent                                                                                                                            passage et l’intégrité des conditionements
+
+
+
+
+RINÇAGE                                          STÉRILISATION                                                                              STERILISATION
+                                                                                                                                            Pourquoi?
+Pourquoi?                                                                                                                                   Eliminer les micro-organismes du
+Obtenir un matériel médical propre                                                                                                          matériel traité
+
+Comment?                                                                                                                                    Comment?
+Rinçage abondant à l’eau courante                                                                                                           Utilisation de Stérilisateur à chaleur
+                                                                                                                                            humide (Autoclave):
+                                                                                                                                            - 125°C 20 min
+                                                                                                                                            - 134°C 18 min
+
+
+
+
+                  SECHAGE                                                                                             CONDITIONNEMENT
+                                                                                                                     Pourquoi?
+                  Pourquoi?                                                                                          - Protéger le dispositif médical propre d'un
+                  Optimiser l’eﬃcacité de la stérilisation                                                             risque de contamination
+                                                                                                                     - Permettre le passage de l'agent stérilisant
+                  Comment?                                                                                           Comment?
+                  Avec un torchon propre absorbant ou à                                                              - Emballage réutilisable (conteneur)
+                  usage unique                                                                                       - Emballage à usage unique:(papier crêpé,
+                                                                                                                       papier lisse, sachets thermo-soudés)
+                                                                                                                     Enﬁn :
+                                                                                                                     - Etiquetage des emballages
+
+
+
+
+                       Figure 9 : Processus de la stérilisation
+                                                                                       ‫ﻣﺪﯾﺮﯾﺔ اﻟﻤﺴﺘﺸﻔﯿﺎت واﻟﻌﻼﺟﺎت اﻟﻤﺘﻨﻘﻠﺔ‬
+                                                                                 Direction des Hopitaux et des Soins Ambulatoires
+
+
+
+
+Sécurité Sanitaire des ESSP
+Guide du Professionnel
+                                                                                                                                                                             67
+      Tableau 16 : Etapes de processus de stérilisation (20) (22)
+          Etapes                                         Action
+Lavage simple des              Savonnage des mains.
+mains
+Port de la tenue de            Porter une blouse et une sur-blouse;
+protection                     - Porter un calot, une bavette, des gants de protection
+                                 et des lunettes de protection si nécessaire.
+Préparation du bain de Respecter les recommandations du fabricant
+pré-désinfection
+Pré-désinfection               -Démonter les instruments et les immerger totalement
+                                 dans le bain ;
+                               - Fermer hermétiquement le bac de pré-désinfection ;
+                               - Respecter le temps de contact (selon les
+                                 recommandations du fabriquant)
+Nettoyage des                  -Brosser le matériel avec une brosse non abrasive ;
+instruments                    - Irriguer tout matériel creux à l’aide d’une seringue à
+                                 usage unique.
+Rinçage à l’eau                Procéder au rinçage abondant du matériel à l’eau
+courante                       courante.
+Séchage                        Egouttage, essuyage
+Conditionnement                Emballage adapté (boîtes ou sachets)
+Etiquetage                     Date et nature du matériel à stériliser sur l’emballage
+Stérilisation par              20 min à 125°C
+la chaleur humide              18 min à 134°C
+(Autoclave)
+Contrôle                       Bon fonctionnement de l’appareil
+                               Bonne disposition de la charge
+                               bonne sélection du cycle et de la température
+                               Bonne déroulement du cycle
+                               Siccité de la charge
+                               Intégrité du conditionnement
+Stockage                       Sur un rayonnage dans un local spécifique ou placard ou
+                               tiroir propre fermé
+
+
+
+
+      Sécurité Sanitaire des ESSP
+      Guide du Professionnel
+                                                                                          68

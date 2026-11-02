@@ -1,0 +1,430 @@
+     CHAPITRE I
+
+Concepts et Définitions
+1. Concepts
+1. 1.La sécurité des patients
+La sécurité des patients est un domaine des soins de santé qui a
+émergé avec la complexité croissante des systèmes de santé et la
+hausse des préjudices causés aux patients au sein des établissements
+de santé. Il s’agit de prévenir et de réduire les risques et les erreurs
+causés aux patients dans le cadre de soins de santé. La sécurité des
+patients repose en premier lieu sur l’amélioration continue, grâce à
+des enseignements tirés de bases factuelles solides et de la gestion des
+erreurs et des incidents indésirables (1).
+
+Il est clairement admis, en effet, que des services de santé de qualité
+à l’échelle mondiale devraient être efficaces, sûrs et centrés sur la
+personne.
+
+Des politiques claires, des capacités de leadership, des données pour
+orienter les améliorations de sécurité, ainsi que des professionnels
+de santé compétents avec la participation réelle des patients à leurs
+soins, sont nécessaires pour parvenir à mettre en œuvre des stratégies
+efficaces et efficientes en matière de sécurité au niveau des structures
+de santé.
+
+1. 2. La sécurité des professionnels de santé
+La Déclaration Universelle des Droits de l’Homme, par son article
+23, affirme que le droit au travail inclut « des conditions de travail
+justes et favorables » en tant que droit humain fondamental. De
+nombreuses conventions, résolutions et instruments internationaux
+importants ultérieurs, y compris le Programme de Développement
+Durable à l’horizon 2030 et ses Objectifs de Développement Durable,
+ont appelé les gouvernements et autres parties prenantes à fournir
+des environnements de travail sûrs, sécurisés et favorables à tous les
+travailleurs (2).
+La santé, la sécurité et le bien-être des agents de santé sont une
+responsabilité légale et morale des gouvernements et une condition
+préalable à une réponse efficace à la pandémie de COVID-19 et à
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     5
+d’autres urgences de santé publique, ainsi qu’à la fourniture de services
+de santé essentiels. Le facteur humain ne peut pas être gouverné de
+la même manière que les médicaments, les équipements et autres
+fournitures, il est primordial de les motiver, les accompagner et de les
+protéger.
+La résolution WHA72 de l’OMS lors de la 72ème assemblée mondiale
+de la santé 2019 sur l’action mondiale en faveur de la sécurité des
+patients, reconnaît l’importance de « l’éducation, la formation et le
+perfectionnement professionnel continu, pour offrir et maintenir un
+personnel compétent, compatissant et dévoué intervenant dans un
+environnement favorable pour assurer la sécurité des soins de santé.»
+
+1. 3. La charge des préjudices de l’insécurité
+Chaque année, des millions de patients sont victimes de traumatismes
+ou décèdent en raison de soins dangereux ou de mauvaise qualité. De
+nombreuses pratiques médicales et de nombreux risques associés aux
+soins de santé posent désormais des problèmes en termes de sécurité
+des patients et accentuent considérablement les conséquences
+des soins dangereux. De nombreuses situations-particulièrement
+préoccupantes possèdent un lien de causalité largement documenté,
+tel que :
+
+• Les erreurs médicamenteuses qui sont l’une des principales causes
+de lésions et de préjudices évitables dans les systèmes de santé (3).
+
+• Les infections associées aux soins de santé qui concernent 7% des
+patients hospitalisés dans les pays à revenu élevé, et 10% dans les pays
+à revenu faible et intermédiaire (5).
+
+• Les injections à risque pratiquées dans le cadre de soins de santé
+peuvent être à l’origine de la transmission d’infections, dont celle à VIH
+et les hépatites B et C, et elles constituent directement un danger pour
+les patients et les professionnels de santé. On estime qu’elles sont
+responsables, chaque année dans le monde, de la perte de 9,2 millions
+d’années de vie ajustées sur l’incapacité (6).
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                       6
+• L’état septique est rarement diagnostiqué assez tôt pour sauver
+la vie du patient. Comme les infections à l’origine d’un état septique
+sont souvent résistantes aux antibiotiques, elles peuvent entraîner
+rapidement une dégradation de l’état de santé. On estime que, chaque
+année, 31 millions de personnes dans le monde présentent un état
+septique et que plus de cinq millions en meurent (7).
+
+1. 4. La sécurité des patients et des professionnels de
+      santé est un élément essentiel pour la Couverture
+      Sanitaire Universelle
+La sécurité des patients et des travailleurs de santé dans le cadre de
+soins de qualité est nécessaire pour renforcer les systèmes de santé
+et progresser vers la couverture sanitaire universelle (CSU) réelle
+et, la réalisation de l’objectif 3 de développement durable (ODD) :
+«permettre à tous de vivre en bonne santé et promouvoir le bien-
+être de tous à tout âge » (8).
+
+La cible 3.8 des ODD porte sur la mise en œuvre de la CSU « comprenant
+une protection contre les risques financiers et donnant accès à des
+services de santé essentiels de qualité et à des médicaments et
+vaccins essentiels sûrs, efficaces, de qualité et d’un coût abordable ».
+Pour y parvenir, l’Organisation mondiale de la Santé (OMS) s’appuie sur
+le principe de couverture effective : « la CSU doit être perçue comme
+une approche pour parvenir à un meilleur niveau de santé et pour
+garantir que les patients aient accès à des services de qualité en toute
+sécurité » (9).
+Il faut également reconnaître le rôle de la sécurité des patients pour
+réduire les coûts liés aux préjudices causés aux patients ainsi que pour
+améliorer l’efficacité des systèmes de santé. Des services de santé sûrs
+permettront de rassurer les patients et de restaurer la confiance des
+communautés dans leurs systèmes de santé (11).
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     7
+1. 5 L’infection associée aux soins
+Une infection est dite associée aux soins si elle survient au cours ou au
+décours d’une prise en charge (diagnostique, thérapeutique, palliative,
+préventive ou éducative) d’un patient, et si elle n’était ni existante ni en
+incubation au début de la prise en charge. Les Infections Associées au
+Soins (IAS) concernent les patients, malades ou non, mais également
+les professionnels de santé et les visiteurs.
+
+1. 6. La culture de sécurité
+La culture de sécurité est un ensemble de manières de faire et de
+manières de penser largement partagées par las acteurs d’une
+organisation à propos de la maitrise des risques les plus importants
+liés à ses activités (10).
+C’est une culture qui témoigne des cinq vertus cardinales que
+les professionnels de santé s’efforcent de mettre en œuvre par
+l’intermédiaire d’un système solide de management de la sécurité. Elle
+comprend cinq caractéristiques (13) :
+      • Une culture où tous les professionnels de santé (soignants,
+          médecins, administrateurs) acceptent la responsabilité de
+          leur sécurité, de celle des collègues, des patients et des
+          visiteurs,
+      • Une culture qui priorise la sécurité devant les exigences
+          financières et opérationnelles,
+      • Une culture qui encourage et récompense l’identification, la
+          communication, et la résolution de tout problème de sécurité,
+      • Une culture qui donne à l’organisation les moyens d’apprendre
+          de ses erreurs et
+      • Une culture qui apporte le nécessaire en ressources,
+          structures et responsabilités pour maintenir la sécurité au
+          meilleur niveau.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                         8
+1. 7. Les mesures de contrôle et de prévention des
+      infections
+Selon les preuves scientifiques disponibles, les interventions qui
+donnent les meilleurs résultats en matière des prestations de soins
+sont celles qui respectent les recommandations des bonnes pratiques,
+ce qui nécessite souvent des changements structurels et culturels des
+équipes de santé et de la relation soignant-soigné.
+Les éléments de base recommandés dans les stratégies en mesure de
+garantir la sécurité sanitaire au niveau des établissements de soins
+sont (14):
+     • La disponibilité de référentiel, guide ;
+     • La formation des professionnels et la sensibilisation de la
+        population ;
+     • Le dispositif de l’évaluation et de suivi ;
+     • La politique de génération de culture de sécurité sanitaire et de
+        changements de comportement.
+
+
+ Disponibilité de lignes directrices
+
+ Formation des professionnels et sensibilisation de la population
+
+ Evaluation et suivi
+
+ Génération de culture et de changements du comportement
+
+ Figure1 : Eléments de base pour le développement de stratégie de
+                       Sécurité Sanitaire (14)
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     9
+1. 8 Les types des déterminants de la sécurité
+Dans son livre intitulé « Sécurité du patient », Vincent C. décrit les
+facteurs qui influencent la sécurité des structures de santé sous sept
+grandes rubriques (15):
+
+1. Facteurs liés aux patients. L’état du patient a l’influence la plus
+directe sur la pratique et les résultats. D’autres facteurs tels que la
+personnalité, le langage et les problèmes psychologiques peuvent
+également être importants car ils peuvent influencer la communication
+avec le personnel.
+2. Facteurs de tâche. La conception de la tâche, la disponibilité et
+l’utilité des protocoles et des résultats des tests peuvent influencer le
+processus de soins et affecter la qualité des soins.
+3. Facteurs individuels. Les facteurs individuels du personnel
+comprennent les connaissances, les compétences et l’expérience
+de chaque membre du personnel, ce qui affectera évidemment leur
+pratique clinique.
+4. Facteurs d’équipe. Chaque membre du personnel fait partie d’une
+équipe au sein de l’unité de soins hospitaliers ou communautaire. La
+façon dont une personne pratique et son impact sur le patient sont
+influencés par les autres membres de l’équipe et la façon dont ils
+communiquent et s’entraident.
+5. Conditions de travail. Il s’agit notamment de l’environnement
+physique, de la disponibilité de l’équipement et des fournitures, de la
+lumière, de la chaleur, des interruptions et des distractions subies par
+le personnel.
+6. Facteurs organisationnels. L’équipe est influencée à son tour par
+les actions de gestion et par les décisions prises à un niveau supérieur
+dans l’organisation. Il s’agit notamment de politiques relatives à la
+mobilisation de personnel suppléant ou d’agence, à la formation
+continue, à la formation et à la supervision, et à la disponibilité de
+l’équipement et des fournitures.
+7. Contexte institutionnel. L’organisation elle-même est affectée par
+le contexte institutionnel, y compris les contraintes financières, les
+organismes de réglementation externes et le climat économique et
+politique plus large.
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      10
+  Caractéristiques des patients
+
+  Facteurs de tâche
+
+  Facteurs individuels
+
+  Facteurs d’équipe
+
+  Facturs liés à l’environnement de travail
+
+  Facteurs d’organisation et de gestion
+
+  Contexte institutionnel
+
+            Figure2 : Eléments qui influencent la Sécurité (15)
+
+1. 9. La classification de l’OMS pour la sécurité des patients
+      (voir annexe 1)
+En 2009, le département Sécurité des patients de l’Organisation
+mondiale de la santé (OMS) a publié les bases conceptuelles pour une
+Classification internationale pour la sécurité des patients (CISP). Cette
+classification est basée sur les définitions les plus consensuelles et
+rédigée en utilisant la notion de «termes préférés».
+
+Cette classification reprend les termes les plus usuelles en matière
+de sécurité sanitaire et contribue à améliorer les échanges et la
+communication entre les différentes parties prenantes impliquées
+directement ou indirectement dans de la sécurité sanitaire.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      11
+1. 10. La Conduite à tenir en cas d’Accident d’Exposition au Sang
+      (voir annexe 3)
+La conduite à tenir en cas d’Accident d’Exposition au Sang (AES) doit
+être connue de tout le personnel de santé. Elle doit donc faire l’objet
+d’une procédure affichée ou consultable dans les zones de soins et de
+stérilisation.
+Le matériel nécessaire aux soins immédiats doit être immédiatement
+accessible ainsi que les coordonnées du médecin référent AES le plus
+proche, habituellement aux urgences d’un Établissement hospitalier
+(ou dans le service des maladies Infectieuses).
+Par ailleurs, il est indispensable d’analyser les causes de l’accident pour
+éviter qu’il ne se reproduise.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                        12
+Conduite à tenir en cas d’Accident d’Exposition au Sang (AES)
+
+Soins immédiats
+       • Ne pas faire saigner la plaie
+       • Laver immédiatement à l’eau et au savon pour éliminer toute
+          trace de sang.
+       • Réaliser une asepsie à l’aide de solution chlorée (solution de
+          Dakin commercialisée, Eau de Javel à 2,6% fraîchement diluée
+          au 1/5éme) ou à défaut avec un dérivé iodé ou de l’alcool à 70°,
+          en respectant dans tous les cas un temps de contact d’au moins
+          5 minutes.
+En cas de projection de sang ou de liquide biologique souillé de sang
+sur les muqueuses et en particulier la conjonctive : laver abondamment
+à l’eau ou de préférence au sérum physiologique pendant au moins 5
+minutes.
+Contacter dans les plus brefs délais le médecin au niveau des urgences
+de l'hôpital
+Celui-ci évaluera le risque infectieux et indiquera ou non la mise en route
+d’une prophylaxie de l’infection à VIH (chimio-prophylaxie anti-retro-
+virale).
+celui-ci évaluera le risque infectieux et indiquera ou non la mise en route
+d’une prophylaxie de l’infection à VIH (chimioprophylaxie
+anti-rétrovirale)
+Déclarer l’accident du travail
+Suivi sérologique et clinique
+       • Sérologie VIH avant J8, à J90 et à J180
+       • Anticorps anti-HBs pour vérifier la présence d’anticorps
+          protecteurs.
+       • Le cas échéant, suivi VHB ou VHC en fonction du statut du patient
+          pris en charge
+
+
+
+
+     Sécurité Sanitaire des ESSP
+     Guide du Professionnel
+                                                                          13
+2. Définitions
+• Asepsie: l’ensemble des mesures visant à empêcher tout apport
+  exogène de microorganismes (AFNOR T 72-101).
+• Bio nettoyage: un procédé destiné à réduire la contamination
+  biologique des surfaces (norme NF X 50-790, Activités de service de
+  nettoyage industriel - lexique de la propreté). Il est obtenu par la
+  combinaison (en 3 temps) :
+      -- D’un nettoyage,
+      -- D’une évacuation de la salissure et des produits utilisés,
+      -- De l’application d’un désinfectant.
+• Désinfection des locaux : elle peut faire suite aux techniques de
+  nettoyage dans certains secteurs de soins (par exemple : désinfection
+  des surfaces par spray dirigé).
+• Désinfectant: un produit contenant au moins un principe actif doué
+  de propriété antimicrobienne et dont l’activité est déterminée par
+  un système normatif reconnu. Ce produit doit satisfaire aux normes
+  de bactéricide (NF EN 1040), et peut, en outre, présenter des
+  caractéristiques supplémentaires : fongicide (NF EN 1275), virucide
+  (NF T 72-180), sporicide (NF T 72-230 ou NF T72-231).
+• Détergence: un processus selon lequel des salissures ou des
+  (souillures) sont détachées de leur substrat et mises en solution
+  ou en dispersion. Au sens ordinaire, la détergence a pour effet le
+  nettoyage des surfaces. Elle est la résultante de la mise en œuvre de
+  plusieurs phénomènes physico-chimiques (NF EN ISO 862).
+• Détergent: un produit dont la composition est spécialement
+  étudiée pour le nettoyage selon un processus mettant en œuvre
+  les phénomènes de détergence. Un détergent comprend des
+  composants essentiels (agents de surface) et généralement des
+  composants complémentaires (adjuvants, etc.) (NF EN ISO 862).
+• Détergent-désinfectant: un produit présentant la double propriété
+  d’être un détergent et un désinfectant.
+• Dispositif médical: tout instrument, appareil, équipement, matériel,
+  produit, à l’exception des produits d’origine humaine, ou autre article
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                      14
+  utilisé seul ou en association, y compris les accessoires et logiciels
+  intervenant dans son fonctionnement, destiné par le fabricant à être
+  utilisé chez l’homme à des fins médicales et dont l’action principale
+  voulue n’est pas obtenue par des moyens pharmacologiques ou
+  immunologiques ni par métabolisme, mais dont la fonction peut
+  être assistée par de tels moyens.
+• Entretien des locaux : il concerne les étapes de nettoyage-
+  désinfection permettant une maîtrise du niveau de contamination
+  microbienne de l’environnement d’un bâtiment, à savoir : les sols,
+  les murs et les plafonds.
+• Flore résidente: une flore qui vit et se multiplie dans les couches
+  superficielles de la peau. Elle est essentiellement constituée de
+  corynébactéries, de staphylocoagulases négatives et bactéries
+  anaérobies (ex Propionibacterium acnés).
+• Flore transitoire/transitaire: une flore acquise par le soignant tout
+  au cours de son activité. Elle dépend de l’environnement et de
+  l’activité du sujet. La survie des micro-organismes est habituellement
+  transitoire mais elle peut remplacer la flore naturelle résidente
+  surtout si la peau est irritée ou lésée. Elle est en partie constituée
+  de germes potentiellement pathogènes : Staphylococcus aureus,
+  Pseudomonas, entérobactéries, streptocoques.
+• Geste aseptique: une activité de soins impliquant un contact direct
+  ou indirect avec une muqueuse, une peau lésée ou un dispositif
+  médical invasif. Pendant l’exécution de ce geste, aucun germe ne
+  doit être transmis au patient.
+• Nettoyage: une opération d’entretien et de maintenance des locaux
+  et des équipements dont l’objectif principal est d’assurer un aspect
+  agréable (notion de confort) et un niveau de propreté (notion
+  d’hygiène). Cette opération d’élimination (avant tout macroscopique)
+  des salissures particulaires, biologiques, organiques ou liquides est
+  réalisée par un procédé respectant l’état des surfaces traitées et
+  faisant appel, dans des proportions variables, aux facteurs combinés
+  suivants : action chimique, action mécanique, température et temps
+  d’action.
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                     15
+• Nettoyage-désinfection: résulte de l’utilisation d’un produit
+  détergent désinfectant qui associe en une seule opération nettoyage
+  et désinfection.
+• Norme: un document qui définit les spécificités techniques d’un
+  produit, d’un service ou d’un bien. Il est élaboré de manière
+  consensuelle et validé par un organisme reconnu (en France l’AFNOR,
+  au niveau Européen le CEN), au Maroc IMANOR et à l’internationnal
+  ISO)
+• Pré-désinfection: le premier traitement à effectuer en utilisant
+  un produit détergent (ou détergent-désinfectant), sur les objets
+  et matériels souillés dans le but de diminuer la population des
+  micro-organismes, de faciliter le nettoyage ultérieur, et protéger le
+  personnel lors de la manipulation des matériels.
+• Savon désinfectant ou antiseptique: un savon à action
+  antimicrobienne.
+• Stérile: l’état d’un produit exempt de micro-organismes viables (NF
+  EN 556).
+• Stérilisation: un procédé qui rend un produit stérile et qui permet
+  de conserver cet état pendant une période de temps précisée.
+  C’est une opération qui permet d’éliminer ou de tuer les micro-
+  organismes portés par des milieux inertes contaminés, le résultat de
+  cette opération étant l’état de stérilité.
+
+
+
+
+       Sécurité Sanitaire des ESSP
+       Guide du Professionnel
+                                                                    16
